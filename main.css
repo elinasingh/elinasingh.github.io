@@ -89,11 +89,15 @@ footer {
 .input-box{
 	position:relative;
 	left:45px;
-	top:-30px;
+	top:-33px;
 	width:85%;
 }
 .like-margin{
 	margin-top: 30px;
+}
+.img-sz
+{
+	margin-top:5px;
 }
 .images
 {
@@ -156,7 +160,7 @@ footer {
 }
 .niki
 {
-	width: 90%;
+	width: 85%;
 	margin-top: 15px;
 	
 }
