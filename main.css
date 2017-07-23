@@ -286,3 +286,6 @@ color:#90949c;
 	
 
 }
+.left-right{
+     background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0) 0,rgba(0,0,0,.0000) 100%) !important;
+}
